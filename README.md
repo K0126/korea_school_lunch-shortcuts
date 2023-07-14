@@ -9,25 +9,28 @@
 <img src= "https://media.discordapp.net/attachments/1128409819448082445/1129260560140222515/IMG_9180.png?width=306&height=627">
 신뢰하지 않는 단축어 허용을 켜줍니다.
 
+
 ### 다운로드 링크
 **ios만 가능합니다.**
 
-> 오늘 점 다운로드 링크 : 
+> 오늘 점심 다운로드 링크 : 
 > 
 > https://www.icloud.com/shortcuts/c40317e51a5d4e759edb12e6a589d460
 
-## Contributing
+## 단축어 설치 방법
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129265583821697084/IMG_9181.png?width=306&height=627">
+위에 링크 접속 후 단축키 가져오기를 눌러줍니다. 
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129265584534728754/IMG_9183.png?width=306&height=627">
+아래로 스크롤 후 신뢰하지 않는 단축어 추가를 눌러줍니다.
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129265585109344276/IMG_9185.png?width=306&height=627">
+학교 이름을 띄어쓰기 없이 풀네임으로 넣어줍니다. 
 
-Please make sure to update tests as appropriate.
-
-## License
 
 
 
-[MIT](https://choosealicense.com/licenses/mit/)
+
+
 
 
 
