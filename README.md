@@ -9,20 +9,12 @@
 <img src= "https://media.discordapp.net/attachments/1128409819448082445/1129260560140222515/IMG_9180.png?width=306&height=627">
 신뢰하지 않는 단축어 허용을 켜줍니다.
 
-## 설치
+### 다운로드 링크
+**본인의 기기의 사간 표현형에 맞춰 다운로드 해주세요**
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+> V.4 오전/오후 시간 다운로드 링크 : 
+> 
+> https://www.icloud.com/shortcuts/3b86ce09ad394675a5b92c74eaa4308b
 
 ## Contributing
 
