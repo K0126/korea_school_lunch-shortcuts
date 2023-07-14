@@ -20,11 +20,11 @@
 
 ## 단축어 설치 방법
 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129265583821697084/IMG_9181.png?width=306&height=627">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283449639936010/2023-07-13_222705526.png">
 위에 링크 접속 후 단축키 가져오기를 눌러줍니다. 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129265584534728754/IMG_9183.png?width=306&height=627">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283449350541352/2023-07-13_222718650.png">
 아래로 스크롤 후 신뢰하지 않는 단축어 추가를 눌러줍니다.
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129265585109344276/IMG_9185.png?width=306&height=627">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283449056927815/2023-07-13_222729497.png">
 학교 이름을 띄어쓰기 없이 풀네임으로 넣어줍니다. 
 
 
