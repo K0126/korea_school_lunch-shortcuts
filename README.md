@@ -39,6 +39,17 @@
 위젯 클릭 시 오늘 점심 급식 메뉴가 출력됩니다. 
 
 
+### 2. 앱
+
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129270272449593484/IMG_9192.png?width=306&height=627">
+단축어 앱에서 오늘 점심 단축어의 우측 상단 점 3개를 눌러줍니다. 
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129270272759955476/IMG_9193.png?width=306&height=627">
+다시 우측 상단 점 3개를 눌러줍니다.
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129270273066143884/IMG_9194.png?width=306&height=627">
+홈 화면에 추가를 눌러줍니다. 
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129270829620920391/IMG_9195.png?width=304&height=626">
+앱 실행 시 오늘 점심 급식 메뉴가 출력됩니다. 
+
 
 
 
