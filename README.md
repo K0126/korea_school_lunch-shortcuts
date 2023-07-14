@@ -5,7 +5,7 @@
 
 ## 설치 전
 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129287191684726964/IMG_9200.jpg?width=147&height=300">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129282057869213716/2023-07-13_222325856.png">
 설정 중반 쯤에 위치한 단축어 탭에서 
 <img src= "https://media.discordapp.net/attachments/1128409819448082445/1129282722750287912/2023-07-13_222604356.png">
 신뢰하지 않는 단축어 허용을 켜줍니다.
