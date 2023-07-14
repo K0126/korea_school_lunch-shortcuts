@@ -5,16 +5,16 @@
 ## 설치 전
 
 <img src= "https://media.discordapp.net/attachments/1128409819448082445/1129260376521977898/IMG_9179.png?width=306&height=627">
-> 설정 중반 쯤에 위치한 단축어 탭에서 
+설정 중반 쯤에 위치한 단축어 탭에서 
 <img src= "https://media.discordapp.net/attachments/1128409819448082445/1129260560140222515/IMG_9180.png?width=306&height=627">
-> 신뢰하지 않는 단축어 허용을 켜줍니다.
+신뢰하지 않는 단축어 허용을 켜줍니다.
 
 ### 다운로드 링크
-**본인의 기기의 사간 표현형에 맞춰 다운로드 해주세요**
+**ios만 가능합니다.**
 
-> V.4 오전/오후 시간 다운로드 링크 : 
+> 오늘 점 다운로드 링크 : 
 > 
-> https://www.icloud.com/shortcuts/3b86ce09ad394675a5b92c74eaa4308b
+> https://www.icloud.com/shortcuts/c40317e51a5d4e759edb12e6a589d460
 
 ## Contributing
 
