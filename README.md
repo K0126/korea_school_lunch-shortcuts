@@ -42,13 +42,13 @@
 
 ### 2. 앱
 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129270272449593484/IMG_9192.png?width=306&height=627">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283450768216094/2023-07-13_222833467.png">
 단축어 앱에서 오늘 점심 단축어의 우측 상단 점 3개를 눌러줍니다. 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129270272759955476/IMG_9193.png?width=306&height=627">
+<img src= "hhttps://media.discordapp.net/attachments/1128409819448082445/1129283450478796841/2023-07-13_222842609.png">
 다시 우측 상단 점 3개를 눌러줍니다.
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129270273066143884/IMG_9194.png?width=306&height=627">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283450134876240/2023-07-13_222850182.png">
 홈 화면에 추가를 눌러줍니다. 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129270829620920391/IMG_9195.png?width=304&height=626">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283449879003146/2023-07-13_222858566.png">
 앱 실행 시 오늘 점심 급식 메뉴가 출력됩니다. 
 
 
