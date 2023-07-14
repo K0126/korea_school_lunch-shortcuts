@@ -32,11 +32,11 @@
 
 ### 1. 위젯
 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129268223787937852/IMG_9189.png?width=290&height=627">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283448788504617/2023-07-13_222801702.png">
 홈 화면에서 바탕화면을 길게 눌러준 후 좌측 상단에 위치한 + 버튼을 눌러줍니다. 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129268224131874846/IMG_9190.png?width=290&height=627">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283448545214474/2023-07-13_222812224.png">
 상단에서 단축어 검색 후 오늘 급식 위젯을 추가해줍니다. 
-<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129268224681324665/IMG_9191.png?width=304&height=627">
+<img src= "https://media.discordapp.net/attachments/1128409819448082445/1129283448297758730/2023-07-13_222822872.png">
 위젯 클릭 시 오늘 점심 급식 메뉴가 출력됩니다. 
 
 
