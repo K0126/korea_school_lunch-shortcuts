@@ -20,6 +20,7 @@
 
 <img src= "https://media.discordapp.net/attachments/1128409819448082445/1129896625775595571/IMG_9212.jpg?width=150&height=300">
 지역 코드를 넣어줍니다.
+
 ```
 서울: B10 부산: C10 대구: D10 인천: E10 광주: F10	대전: G10
 울산: H10 세종: I10 경기도: J10 강원도: L10 충청북도: M10
