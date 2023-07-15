@@ -16,7 +16,8 @@
 
 > 오늘 점심 다운로드 링크 : 
 > 
-> https://www.icloud.com/shortcuts/c40317e51a5d4e759edb12e6a589d460
+> https://www.icloud.com/shortcuts/0027dd65405e499198306476803dd41a
+
 
 ## 단축어 설치 방법
 
@@ -71,8 +72,8 @@
 ### 버전 안내 
 - V.1.0 - 급식 확인 단축어 위젯 개발
 
-- V.1.1 (WIP) - ios 16 이상 버전에서 폰트 깨짐 버그 수정 중...
-<img src= "https://preview.redd.it/c9ujaby6lybb1.png?width=4032&format=png&auto=webp&s=1265b4b9f403c8986c33a97d3d3e83da80a4e157">
+- V.1.1 - ios 16 이상의 버전에서 폰트 깨짐 버그 수정 완료
+
 
 
 
