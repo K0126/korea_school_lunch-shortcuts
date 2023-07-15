@@ -18,6 +18,7 @@
 <img src= "https://media.discordapp.net/attachments/1128409819448082445/1129896625477791824/IMG_9211.jpg?width=150&height=300">
 위에 링크 접속 후 단축키 설정을 눌러줍니다. 
 
+
 <img src= "https://media.discordapp.net/attachments/1128409819448082445/1129896625775595571/IMG_9212.jpg?width=150&height=300">
 본인의 학교가 위치하는 지역의 지역 코드를 넣어줍니다. (첫글자 알파벳 대문자입니다)
 
